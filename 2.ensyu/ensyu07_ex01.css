@@ -1,0 +1,21 @@
+table{
+  border:1px solid #000000;
+  border-collapse:collapse;
+}
+
+th{
+  background-color: yellow;
+  padding:10px;
+  border:1px solid #000000;
+  border-collapse:collapse;
+}
+
+td{
+  padding:10px;
+  border:1px solid black;
+}
+
+header{
+  padding:10px;
+  font-size:20px;
+}
